@@ -20,9 +20,9 @@ PizzaPalace é um site de pedidos de pizza online, onde os usuários podem selec
 2. Abra o arquivo `index.html` em seu navegador da web.
 
 ## Tecnologias Utilizadas
-- HTML
-- CSS
-- JavaScript
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Contribuição
 
